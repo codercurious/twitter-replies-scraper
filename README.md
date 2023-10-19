@@ -1,5 +1,5 @@
 # Twitter comments scraper
-Interested in using this scraper? Get it here: [Twitter comments scraper](https://apify.com/curious_coder/twitter-replies-scraper)
+Interested in using this scraper? Get it here: [Twitter comments scraper](https://apify.com/curious_coder/twitter-replies-scraper?fpr=ve081&fp_sid=github_twitter-replies-scraper)
 ## How it works
 
 You need to pass twitter cookies to this actor to use the existing session to  perform scraping.
